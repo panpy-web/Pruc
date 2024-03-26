@@ -1,1 +1,1 @@
-Proyecto de prueba
+Proyecto de pruebas
